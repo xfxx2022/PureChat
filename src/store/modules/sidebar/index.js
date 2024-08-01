@@ -62,12 +62,12 @@ const moreList = [
     url: "https://github.com/Hyk260",
   },
   {
-    only: "gitee",
+    only: "番茄酱",
     icon: "IceTea",
-    title: "gitee",
+    title: "番茄酱",
     type: "el-icon",
     openType: "outside",
-    url: "https://gitee.com/H260788/PureChat",
+    url: "https://blog.1314151.xyz",
   },
 ];
 
