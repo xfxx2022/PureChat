@@ -47,9 +47,6 @@
             <div class="version">当前版本 {{ $config.Version }}</div>
           </div>
         </div>
-        <div>
-          <el-button @click="log"> 更新日志 </el-button>
-        </div>
       </div>
       <div class="divider"></div>
       <!-- <div class="info">
