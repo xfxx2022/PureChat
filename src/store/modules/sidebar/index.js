@@ -55,16 +55,9 @@ const outsideList = [
 ];
 const moreList = [
   {
-    only: "github",
-    icon: "github",
-    title: "github",
-    openType: "outside",
-    url: "https://github.com/Hyk260",
-  },
-  {
     only: "番茄酱",
     icon: "IceTea",
-    title: "番茄酱",
+    title: "番茄酱的Blog",
     type: "el-icon",
     openType: "outside",
     url: "https://blog.1314151.xyz",
