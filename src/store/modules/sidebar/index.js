@@ -29,15 +29,6 @@ const outsideList = [
     // type: "el-icon",
   },
   {
-    only: "document",
-    icon: "Document",
-    locale: "document",
-    title: "文档",
-    type: "el-icon",
-    openType: "outside",
-    url: docs,
-  },
-  {
     only: "test",
     icon: "SwitchFilled",
     title: "web",
@@ -57,7 +48,7 @@ const moreList = [
   {
     only: "番茄酱",
     icon: "IceTea",
-    title: "番茄酱的Blog",
+    title: "番茄酱",
     type: "el-icon",
     openType: "outside",
     url: "https://blog.1314151.xyz",
